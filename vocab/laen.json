@@ -1,0 +1,829 @@
+{
+  "a": "from", 
+  "ab": "by", 
+  "abesse": [
+    "to be absent", 
+    "to be away"
+  ], 
+  "ablatus": [
+    "having been stolen", 
+    "having been taken away", 
+    "having been carried off"
+  ], 
+  "abstuli": [
+    "i stole", 
+    "i took away", 
+    "i carried off"
+  ], 
+  "absum": [
+    "i am absent", 
+    "i am away"
+  ], 
+  "ac": "and", 
+  "accepi": [
+    "i accepted", 
+    "i took in", 
+    "i recieved"
+  ], 
+  "acceptus": [
+    "having been accepted", 
+    "having been taken in", 
+    "having been recieved"
+  ], 
+  "accidere": "to happen", 
+  "accidi": "i happened", 
+  "accido": "i happen", 
+  "accipere": [
+    "to accept", 
+    "to take in", 
+    "to recieve"
+  ], 
+  "accipio": [
+    "i accept", 
+    "i take in", 
+    "i recieve"
+  ], 
+  "actus": [
+    "having been done", 
+    "having been acted", 
+    "having been driven"
+  ], 
+  "ad": [
+    "to", 
+    "towards", 
+    "at"
+  ], 
+  "adacis": [
+    "bold", 
+    "daring"
+  ], 
+  "adeo": [
+    "so much", 
+    "so greatly"
+  ], 
+  "adesse": [
+    "to be here", 
+    "to be present"
+  ], 
+  "adiutus": "having been helped", 
+  "adiuvare": "to help", 
+  "adiuvi": "i helped", 
+  "adiuvo": "i help", 
+  "adsum": [
+    "i am present", 
+    "i am here"
+  ], 
+  "adveni": "i arrived", 
+  "advenio": "i arrive", 
+  "advenire": "to arrive", 
+  "agere": [
+    "to do", 
+    "to act", 
+    "to drive"
+  ], 
+  "ago": [
+    "i do", 
+    "i act", 
+    "i drive"
+  ], 
+  "alia": [
+    "other", 
+    "another", 
+    "else"
+  ], 
+  "aliquid": "something", 
+  "aliquis": "someone", 
+  "aliud": [
+    "other", 
+    "another", 
+    "else"
+  ], 
+  "alius": [
+    "other", 
+    "another", 
+    "else"
+  ], 
+  "alta": [
+    "high", 
+    "deep"
+  ], 
+  "alter": [
+    "another", 
+    "the second of two"
+  ], 
+  "altera": [
+    "another", 
+    "the second of two"
+  ], 
+  "alterum": [
+    "another", 
+    "the second of two"
+  ], 
+  "altum": [
+    "high", 
+    "deep"
+  ], 
+  "altus": [
+    "high", 
+    "deep"
+  ], 
+  "amare": [
+    "to love", 
+    "to like"
+  ], 
+  "amatus": [
+    "having been loved", 
+    "having been liked"
+  ], 
+  "amavi": [
+    "i loved", 
+    "i liked"
+  ], 
+  "ambulare": "to walk", 
+  "ambulavi": "i walked", 
+  "ambulo": "i walk", 
+  "amici": "friend", 
+  "amicus": "friend", 
+  "amo": [
+    "i love", 
+    "i like"
+  ], 
+  "amor": "love", 
+  "amoris": "love", 
+  "ancilla": [
+    "slave girl", 
+    "maid"
+  ], 
+  "ancillae": [
+    "slave girl", 
+    "maid"
+  ], 
+  "animi": [
+    "spirit", 
+    "soul", 
+    "mind"
+  ], 
+  "animus": [
+    "spirit", 
+    "soul", 
+    "mind"
+  ], 
+  "anni": "year", 
+  "annus": "year", 
+  "ante": [
+    "before", 
+    "in front of"
+  ], 
+  "antea": "before", 
+  "aperio": "i open", 
+  "aperire": "to open", 
+  "apertus": "having been opened", 
+  "aperui": "i opened", 
+  "appareo": "i appear", 
+  "apparere": "to appear", 
+  "apparui": "i appeared", 
+  "appropinquare": [
+    "to approach", 
+    "to come near to"
+  ], 
+  "appropinquavi": [
+    "i approached", 
+    "i came near to"
+  ], 
+  "appropinquo": [
+    "i approach", 
+    "i come near to"
+  ], 
+  "apud": [
+    "among", 
+    "with", 
+    "at the house of"
+  ], 
+  "aqua": "water", 
+  "aquae": "water", 
+  "atque": "and", 
+  "audax": [
+    "bold", 
+    "daring"
+  ], 
+  "audio": [
+    "i hear", 
+    "i listen to"
+  ], 
+  "audire": [
+    "to hear", 
+    "to listen to"
+  ], 
+  "auditus": [
+    "having been heard", 
+    "having been listened to"
+  ], 
+  "audivi": [
+    "i heard", 
+    "i listened to"
+  ], 
+  "aufero": [
+    "i steal", 
+    "i take away", 
+    "i carry off"
+  ], 
+  "auferre": [
+    "to steal", 
+    "to take away", 
+    "to carry off"
+  ], 
+  "aut...aut": [
+    "either or", 
+    "either...or", 
+    "either, or", 
+    "either..or"
+  ], 
+  "belli": "war", 
+  "bellum": "war", 
+  "bene": "well", 
+  "benigna": [
+    "kind", 
+    "generous"
+  ], 
+  "benignum": [
+    "kind", 
+    "generous"
+  ], 
+  "benignus": [
+    "kind", 
+    "generous"
+  ], 
+  "bibere": "to drink", 
+  "bibi": "i drank", 
+  "bibo": "i drink", 
+  "bona": "good", 
+  "bonum": "good", 
+  "bonus": "good", 
+  "breve": [
+    "short", 
+    "brief"
+  ], 
+  "brevis": [
+    "short", 
+    "brief"
+  ], 
+  "cadere": "to fall", 
+  "cado": "i fall", 
+  "caeli": [
+    "sky", 
+    "heaven"
+  ], 
+  "caelum": [
+    "sky", 
+    "heaven"
+  ], 
+  "canis": "dog", 
+  "canis(gen)": "dog", 
+  "capere": [
+    "to catch", 
+    "to take", 
+    "to capture", 
+    "to adopt"
+  ], 
+  "capio": [
+    "i catch", 
+    "i take", 
+    "i capture", 
+    "i adopt"
+  ], 
+  "capitis": "head", 
+  "captus": [
+    "having been caught", 
+    "having been taken", 
+    "having been captured", 
+    "having been adopted"
+  ], 
+  "caput": "head", 
+  "cara": "dear", 
+  "carum": "dear", 
+  "carus": "dear", 
+  "casus": "having been fallen", 
+  "cecidi": "i fell", 
+  "celare": "to hide", 
+  "celatus": "having been hidden", 
+  "celavi": "i hid", 
+  "celer": [
+    "quick", 
+    "fast"
+  ], 
+  "celere": [
+    "quick", 
+    "fast"
+  ], 
+  "celo": "i hide", 
+  "cena": [
+    "dinner", 
+    "meal"
+  ], 
+  "cenae": [
+    "dinner", 
+    "meal"
+  ], 
+  "centum": [
+    "hundred", 
+    "a hundred"
+  ], 
+  "cepi": [
+    "i caught", 
+    "i took", 
+    "i captured", 
+    "i adopted"
+  ], 
+  "cetera": [
+    "the rest", 
+    "others"
+  ], 
+  "ceterae": [
+    "the rest", 
+    "others"
+  ], 
+  "ceteri": [
+    "the rest", 
+    "others"
+  ], 
+  "cibi": "food", 
+  "cibus": "food", 
+  "circum": "around", 
+  "civis": "citizen", 
+  "civis(gen)": "citizen", 
+  "clamare": "to shout", 
+  "clamatus": "having been shouted", 
+  "clamavi": "i shouted", 
+  "clamo": "i shout", 
+  "clamor": [
+    "shouting", 
+    "shout", 
+    "noise"
+  ], 
+  "clamoris": [
+    "shouting", 
+    "shout", 
+    "noise"
+  ], 
+  "coactus": [
+    "having been forced", 
+    "havaing been compelled"
+  ], 
+  "coegi": [
+    "i forced", 
+    "i compelled"
+  ], 
+  "coepi": "i began", 
+  "coepisse": "to have begun", 
+  "coeptus": "having been begun", 
+  "cogere": [
+    "to force", 
+    "to compel"
+  ], 
+  "cogitare": [
+    "to think", 
+    "to consider"
+  ], 
+  "cogitatus": [
+    "having been thought", 
+    "having been considered"
+  ], 
+  "cogitavi": [
+    "i thought", 
+    "i considered"
+  ], 
+  "cogito": [
+    "i think", 
+    "i consider"
+  ], 
+  "cognitus": [
+    "having been learnt", 
+    "having been found out", 
+    "having been learnt"
+  ], 
+  "cognoscere": [
+    "to get to know", 
+    "to find out", 
+    "to learn"
+  ], 
+  "cognosco": [
+    "i get to know", 
+    "i find out", 
+    "i learn"
+  ], 
+  "cognovi": [
+    "i got to know", 
+    "i found out", 
+    "i learnt"
+  ], 
+  "cogo": [
+    "i force", 
+    "i compel"
+  ], 
+  "comes": [
+    "comrade", 
+    "companion"
+  ], 
+  "comitis": [
+    "comrade", 
+    "companion"
+  ], 
+  "conari": "to try", 
+  "conatus": "i tried", 
+  "confeci": [
+    "i finished", 
+    "i wore out", 
+    "i exhausted"
+  ], 
+  "confectus": [
+    "having been finished", 
+    "having been worn out", 
+    "having been exhausted"
+  ], 
+  "conficere": [
+    "to finish", 
+    "to wear out", 
+    "to exhaust"
+  ], 
+  "conficio": [
+    "i finish", 
+    "i wear out", 
+    "i exhaust"
+  ], 
+  "conilium": [
+    "plan", 
+    "idea", 
+    "advice"
+  ], 
+  "conor": "i try", 
+  "consilii": [
+    "plan", 
+    "idea", 
+    "advice"
+  ], 
+  "conspectus": [
+    "having been noticed", 
+    "having been caught sight of"
+  ], 
+  "conspexi": [
+    "i caught sight of", 
+    "i noticed"
+  ], 
+  "conspicere": [
+    "to catch sight of", 
+    "to notice"
+  ], 
+  "conspicio": [
+    "i catch sight of", 
+    "i notice"
+  ], 
+  "constituere": "to decide", 
+  "constitui": "i decided", 
+  "constituo": "i decide", 
+  "constitutus": "having been decided", 
+  "consumere": "to eat", 
+  "consumo": "i eat", 
+  "consumpsi": "i ate", 
+  "consumptus": "having been eaten", 
+  "contra": "against", 
+  "corporis": "body", 
+  "corpus": "body", 
+  "credere": [
+    "to belive", 
+    "to trust", 
+    "to have faith in"
+  ], 
+  "credidi": [
+    "i believed", 
+    "i trusted", 
+    "i had faith in"
+  ], 
+  "creditus": [
+    "having been believed", 
+    "having been trusted", 
+    "having been had faith in"
+  ], 
+  "credo": [
+    "i believe", 
+    "i trust", 
+    "i have faith in"
+  ], 
+  "crudele": "cruel", 
+  "crudelis": "cruel", 
+  "cucurri": "i ran", 
+  "cum": [
+    "when", 
+    "since"
+  ], 
+  "cum (+abl)": "with", 
+  "cupere": [
+    "to want", 
+    "to desire"
+  ], 
+  "cupio": [
+    "i want", 
+    "i desire"
+  ], 
+  "cupivi": [
+    "i wanted", 
+    "i desired"
+  ], 
+  "cur?": [
+    "why?", 
+    "why"
+  ], 
+  "cura": "worry", 
+  "curae": "worry", 
+  "curare": [
+    "to look after", 
+    "to care for", 
+    "to supervise"
+  ], 
+  "curatus": [
+    "having been looked after", 
+    "having been cared for", 
+    "having been supervised"
+  ], 
+  "curavi": [
+    "i looked after", 
+    "i cared for", 
+    "i supervised"
+  ], 
+  "curo": [
+    "i look after", 
+    "i care for", 
+    "i supervise"
+  ], 
+  "currere": "to run", 
+  "curro": "i run", 
+  "cursus": "having been ran", 
+  "custodis": "guard", 
+  "custos": "guard", 
+  "dare": "to give", 
+  "datus": "having been given", 
+  "de": [
+    "from", 
+    "down from", 
+    "about"
+  ], 
+  "dea": "goddess", 
+  "deae": "goddess", 
+  "debeo": [
+    "i owe", 
+    "i should", 
+    "i ought", 
+    "i must"
+  ], 
+  "debere": [
+    "to owe", 
+    "to should", 
+    "to ought", 
+    "to must"
+  ], 
+  "debitus": [
+    "having been owed", 
+    "having been should have", 
+    "having been ought have", 
+    "having been must have"
+  ], 
+  "debui": [
+    "i owed", 
+    "i should have", 
+    "i ought have", 
+    "i must have"
+  ], 
+  "decem": "ten", 
+  "dedi": "i gave", 
+  "dei": "god", 
+  "deinde": "then", 
+  "deleo": "i destroy", 
+  "delere": "to destroy", 
+  "deletus": "having been destroyed", 
+  "delevi": "i destroyed", 
+  "desperare": "to despair", 
+  "desperatus": "having been despaired", 
+  "desperavi": "i despaired", 
+  "despero": "i despair", 
+  "deus": "god", 
+  "dicere": "to say", 
+  "dico": "i say", 
+  "dictus": "having been said", 
+  "diei": "day", 
+  "dies": "day", 
+  "difficile": "difficult", 
+  "difficilis": "difficult", 
+  "dira": "dreadful", 
+  "dirum": "dreadful", 
+  "dirus": "dreadful", 
+  "discedere": [
+    "to depart", 
+    "to leave"
+  ], 
+  "discedo": [
+    "i depart", 
+    "i leave"
+  ], 
+  "discessi": [
+    "i departed", 
+    "i left"
+  ], 
+  "diu": "for a long time", 
+  "dives": "rich", 
+  "divitis": "rich", 
+  "dixi": "i said", 
+  "do": "i give", 
+  "domina": "mistress", 
+  "dominae": "mistress", 
+  "domini": "master", 
+  "dominus": "master", 
+  "domus": [
+    "home", 
+    "house"
+  ], 
+  "domus(gen)": [
+    "home", 
+    "house"
+  ], 
+  "doni": [
+    "gift", 
+    "present"
+  ], 
+  "donum": [
+    "gift", 
+    "present"
+  ], 
+  "dormio": "i sleep", 
+  "dormire": "to sleep", 
+  "dormivi": "i slept", 
+  "duae": "two", 
+  "ducere": [
+    "to lead", 
+    "to take"
+  ], 
+  "ducis": "leader", 
+  "duco": [
+    "i lead", 
+    " i take"
+  ], 
+  "ductus": [
+    "having been led", 
+    "having been taken"
+  ], 
+  "dum": "while", 
+  "duo": "two", 
+  "duo ": "two", 
+  "dura": [
+    "hard", 
+    "harsh"
+  ], 
+  "durum": [
+    "hard", 
+    "harsh"
+  ], 
+  "durus": [
+    "hard", 
+    "harsh"
+  ], 
+  "dux": "leader", 
+  "duxi": [
+    "i led", 
+    "i took"
+  ], 
+  "e": "from", 
+  "effugere": "to escape", 
+  "effugi": "i escaped", 
+  "effugio": "i escape", 
+  "egi": [
+    "i did", 
+    "i acted", 
+    "i drove"
+  ], 
+  "ego": "i", 
+  "egredi": "to go out", 
+  "egredior": "i go out", 
+  "egressus sum": "i went out", 
+  "emere": "to buy", 
+  "emi": "i bought", 
+  "emo": "i buy", 
+  "emptus": "having been bought", 
+  "enim": "for", 
+  "eo": "i go", 
+  "epistula": "letter", 
+  "epistulae": "letter", 
+  "equi": "horse", 
+  "equus": "horse", 
+  "et": "and", 
+  "etiam": [
+    "also", 
+    "even"
+  ], 
+  "ex": "out of", 
+  "exspectare": "to wait for", 
+  "exspectatus": "having been waited for", 
+  "exspectavi": "i waited for", 
+  "exspecto": "i wait for", 
+  "facere": [
+    "to make", 
+    "to do"
+  ], 
+  "facile": "easy", 
+  "facilis": "easy", 
+  "facio": [
+    "i make", 
+    "i do"
+  ], 
+  "factus": [
+    "having been made", 
+    "having been done"
+  ], 
+  "feci": [
+    "i made", 
+    "i did"
+  ], 
+  "femina": "woman", 
+  "feminae": "woman", 
+  "fero": [
+    "i bring", 
+    "i carry", 
+    "i bear"
+  ], 
+  "ferocis": [
+    "fierce", 
+    "ferocious"
+  ], 
+  "ferox": [
+    "fierce", 
+    "ferocious"
+  ], 
+  "ferre": [
+    "to bring", 
+    "to carry", 
+    "to bear"
+  ], 
+  "festinare": "to hurry", 
+  "festinavi": "i hurried", 
+  "festino": "i hurry", 
+  "fidele": [
+    "faithful", 
+    "loyal"
+  ], 
+  "fidelis": [
+    "faithful", 
+    "loyal"
+  ], 
+  "filia": "daughter", 
+  "filiae": "daughter", 
+  "filii": "son", 
+  "filius": "son", 
+  "finished a": "finished a", 
+  "finished b": "finished b", 
+  "finished c": "finished c", 
+  "finished d": "finished d", 
+  "finished e": "finished e", 
+  "finished f": "finished f", 
+  "flumen": "river", 
+  "flumenis": "river", 
+  "fori": [
+    "forum", 
+    "market place"
+  ], 
+  "forte": "by chance", 
+  "forte(fortis)": "brave", 
+  "fortis": "brave", 
+  "forum": [
+    "forum", 
+    "market place"
+  ], 
+  "fractus": "having been broken", 
+  "frangere": "to break", 
+  "frango": "i break", 
+  "frater": "brother", 
+  "fratris": "brother", 
+  "fregi": "i broke", 
+  "frustra": "in vain", 
+  "fugere": [
+    "to flee", 
+    "to run away"
+  ], 
+  "fugi": [
+    "i fled", 
+    "i ran away"
+  ], 
+  "fugio": [
+    "i flee", 
+    "i run away"
+  ], 
+  "ii": "i went", 
+  "ire": "to go", 
+  "latus": [
+    "having been brought", 
+    "having been carried", 
+    "having beedn beared"
+  ], 
+  "mei": "me", 
+  "tuli": [
+    "i brought", 
+    "i carried", 
+    "i beared"
+  ]
+}
